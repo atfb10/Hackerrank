@@ -1,0 +1,11 @@
+D:\General_Algorithms\hackerrank\Compare_The_Triplets\Compare_The_Triplets\bin\Debug\netcoreapp2.1\Compare_The_Triplets.deps.json
+D:\General_Algorithms\hackerrank\Compare_The_Triplets\Compare_The_Triplets\bin\Debug\netcoreapp2.1\Compare_The_Triplets.runtimeconfig.json
+D:\General_Algorithms\hackerrank\Compare_The_Triplets\Compare_The_Triplets\bin\Debug\netcoreapp2.1\Compare_The_Triplets.runtimeconfig.dev.json
+D:\General_Algorithms\hackerrank\Compare_The_Triplets\Compare_The_Triplets\bin\Debug\netcoreapp2.1\Compare_The_Triplets.dll
+D:\General_Algorithms\hackerrank\Compare_The_Triplets\Compare_The_Triplets\bin\Debug\netcoreapp2.1\Compare_The_Triplets.pdb
+D:\General_Algorithms\hackerrank\Compare_The_Triplets\Compare_The_Triplets\obj\Debug\netcoreapp2.1\Compare_The_Triplets.csprojAssemblyReference.cache
+D:\General_Algorithms\hackerrank\Compare_The_Triplets\Compare_The_Triplets\obj\Debug\netcoreapp2.1\Compare_The_Triplets.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\hackerrank\Compare_The_Triplets\Compare_The_Triplets\obj\Debug\netcoreapp2.1\Compare_The_Triplets.AssemblyInfoInputs.cache
+D:\General_Algorithms\hackerrank\Compare_The_Triplets\Compare_The_Triplets\obj\Debug\netcoreapp2.1\Compare_The_Triplets.AssemblyInfo.cs
+D:\General_Algorithms\hackerrank\Compare_The_Triplets\Compare_The_Triplets\obj\Debug\netcoreapp2.1\Compare_The_Triplets.dll
+D:\General_Algorithms\hackerrank\Compare_The_Triplets\Compare_The_Triplets\obj\Debug\netcoreapp2.1\Compare_The_Triplets.pdb

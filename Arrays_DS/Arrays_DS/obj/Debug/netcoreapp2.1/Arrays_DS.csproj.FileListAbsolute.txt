@@ -1,0 +1,11 @@
+D:\General_Algorithms\hackerrank\Arrays_DS\Arrays_DS\bin\Debug\netcoreapp2.1\Arrays_DS.deps.json
+D:\General_Algorithms\hackerrank\Arrays_DS\Arrays_DS\bin\Debug\netcoreapp2.1\Arrays_DS.runtimeconfig.json
+D:\General_Algorithms\hackerrank\Arrays_DS\Arrays_DS\bin\Debug\netcoreapp2.1\Arrays_DS.runtimeconfig.dev.json
+D:\General_Algorithms\hackerrank\Arrays_DS\Arrays_DS\bin\Debug\netcoreapp2.1\Arrays_DS.dll
+D:\General_Algorithms\hackerrank\Arrays_DS\Arrays_DS\bin\Debug\netcoreapp2.1\Arrays_DS.pdb
+D:\General_Algorithms\hackerrank\Arrays_DS\Arrays_DS\obj\Debug\netcoreapp2.1\Arrays_DS.csprojAssemblyReference.cache
+D:\General_Algorithms\hackerrank\Arrays_DS\Arrays_DS\obj\Debug\netcoreapp2.1\Arrays_DS.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\hackerrank\Arrays_DS\Arrays_DS\obj\Debug\netcoreapp2.1\Arrays_DS.AssemblyInfoInputs.cache
+D:\General_Algorithms\hackerrank\Arrays_DS\Arrays_DS\obj\Debug\netcoreapp2.1\Arrays_DS.AssemblyInfo.cs
+D:\General_Algorithms\hackerrank\Arrays_DS\Arrays_DS\obj\Debug\netcoreapp2.1\Arrays_DS.dll
+D:\General_Algorithms\hackerrank\Arrays_DS\Arrays_DS\obj\Debug\netcoreapp2.1\Arrays_DS.pdb

@@ -1,0 +1,11 @@
+D:\General_Algorithms\hackerrank\MaximumToys\MaximumToys\bin\Debug\netcoreapp2.1\MaximumToys.deps.json
+D:\General_Algorithms\hackerrank\MaximumToys\MaximumToys\bin\Debug\netcoreapp2.1\MaximumToys.runtimeconfig.json
+D:\General_Algorithms\hackerrank\MaximumToys\MaximumToys\bin\Debug\netcoreapp2.1\MaximumToys.runtimeconfig.dev.json
+D:\General_Algorithms\hackerrank\MaximumToys\MaximumToys\bin\Debug\netcoreapp2.1\MaximumToys.dll
+D:\General_Algorithms\hackerrank\MaximumToys\MaximumToys\bin\Debug\netcoreapp2.1\MaximumToys.pdb
+D:\General_Algorithms\hackerrank\MaximumToys\MaximumToys\obj\Debug\netcoreapp2.1\MaximumToys.csprojAssemblyReference.cache
+D:\General_Algorithms\hackerrank\MaximumToys\MaximumToys\obj\Debug\netcoreapp2.1\MaximumToys.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\hackerrank\MaximumToys\MaximumToys\obj\Debug\netcoreapp2.1\MaximumToys.AssemblyInfoInputs.cache
+D:\General_Algorithms\hackerrank\MaximumToys\MaximumToys\obj\Debug\netcoreapp2.1\MaximumToys.AssemblyInfo.cs
+D:\General_Algorithms\hackerrank\MaximumToys\MaximumToys\obj\Debug\netcoreapp2.1\MaximumToys.dll
+D:\General_Algorithms\hackerrank\MaximumToys\MaximumToys\obj\Debug\netcoreapp2.1\MaximumToys.pdb

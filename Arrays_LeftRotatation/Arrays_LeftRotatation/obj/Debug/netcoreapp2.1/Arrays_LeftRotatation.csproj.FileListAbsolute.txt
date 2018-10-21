@@ -1,0 +1,11 @@
+D:\General_Algorithms\hackerrank\Arrays_LeftRotatation\Arrays_LeftRotatation\bin\Debug\netcoreapp2.1\Arrays_LeftRotatation.deps.json
+D:\General_Algorithms\hackerrank\Arrays_LeftRotatation\Arrays_LeftRotatation\bin\Debug\netcoreapp2.1\Arrays_LeftRotatation.runtimeconfig.json
+D:\General_Algorithms\hackerrank\Arrays_LeftRotatation\Arrays_LeftRotatation\bin\Debug\netcoreapp2.1\Arrays_LeftRotatation.runtimeconfig.dev.json
+D:\General_Algorithms\hackerrank\Arrays_LeftRotatation\Arrays_LeftRotatation\bin\Debug\netcoreapp2.1\Arrays_LeftRotatation.dll
+D:\General_Algorithms\hackerrank\Arrays_LeftRotatation\Arrays_LeftRotatation\bin\Debug\netcoreapp2.1\Arrays_LeftRotatation.pdb
+D:\General_Algorithms\hackerrank\Arrays_LeftRotatation\Arrays_LeftRotatation\obj\Debug\netcoreapp2.1\Arrays_LeftRotatation.csprojAssemblyReference.cache
+D:\General_Algorithms\hackerrank\Arrays_LeftRotatation\Arrays_LeftRotatation\obj\Debug\netcoreapp2.1\Arrays_LeftRotatation.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\hackerrank\Arrays_LeftRotatation\Arrays_LeftRotatation\obj\Debug\netcoreapp2.1\Arrays_LeftRotatation.AssemblyInfoInputs.cache
+D:\General_Algorithms\hackerrank\Arrays_LeftRotatation\Arrays_LeftRotatation\obj\Debug\netcoreapp2.1\Arrays_LeftRotatation.AssemblyInfo.cs
+D:\General_Algorithms\hackerrank\Arrays_LeftRotatation\Arrays_LeftRotatation\obj\Debug\netcoreapp2.1\Arrays_LeftRotatation.dll
+D:\General_Algorithms\hackerrank\Arrays_LeftRotatation\Arrays_LeftRotatation\obj\Debug\netcoreapp2.1\Arrays_LeftRotatation.pdb
